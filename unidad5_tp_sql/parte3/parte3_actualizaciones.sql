@@ -1,3 +1,5 @@
+use gestionacademica;
+
 -- Consigna 10: Actualizar vista_alumnos_basica para incluir la edad del alumno
 
 CREATE OR REPLACE VIEW vista_alumnos_basica AS -- CREATE OR REPLACE VIEW para "sobreescribir" la vista que ya estaba creada
